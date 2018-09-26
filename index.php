@@ -5,7 +5,7 @@
 <link type="text/css" rel="stylesheet" href="css/css.css" />
 <style>
 		body{
-			background: url("images/1.jpg");
+			background: url("1.jpg");
 			
 		}
 		#menu{
