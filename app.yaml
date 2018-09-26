@@ -1,0 +1,7 @@
+runtime: php
+env: flex
+
+handlers:
+- url: /.*
+  script: helloworld.php
+  
